@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.streamninja" name="StreamNinja" version="1.0.0" provider-name="RubénSDFA1laberot">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="inputstream.adaptive" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="kodi.context.item">
+    <menu id="kodi.core.main">
+      <item library="context_play.py">
+        <label>Abrir con StreamNinja</label>
+        <visible>Addon.SettingBool(plugin.video.streamninja,enable_context_play) + !ListItem.IsFolder</visible>
+      </item>
+      <item library="context_copy.py">
+        <label>Copiar a StreamNinja</label>
+        <visible>Addon.SettingBool(plugin.video.streamninja,enable_context_copy) + !ListItem.IsFolder</visible>
+      </item>
+    </menu>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <property name="streamninja.engine.key" value="cnViZW5zZGZhMWxhYmVybnQ=" />
+    <summary lang="es">Reproductor de URLs y Servidor de Enlaces Local</summary>
+    <description lang="es">StreamNinja permite enviar URLs desde un móvil o PC a Kodi utilizando una web efímera local. Soporta Dailymotion, YouTube, AceStream, Torrents y cualquier enlace de video directo moderno de forma autónoma.</description>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>icon.jpg</icon>
+    </assets>
+  </extension>
+</addon>

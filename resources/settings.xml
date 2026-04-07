@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting id="eula_accepted" type="bool" default="false" visible="false" />
+        <setting id="enable_context_play" type="bool" label="Mostrar 'Abrir con StreamNinja' en menú contextual (click derecho)" default="true" />
+        <setting id="enable_context_copy" type="bool" label="Mostrar 'Copiar a StreamNinja' en menú contextual (click derecho)" default="true" />
+        <setting id="enable_telemetry" type="bool" label="[Privacidad] Enviar métricas anónimas (CERO datos personales o IPs. Solo SO/Versiones)" default="true" />
+        <!-- Settings internos de login: se gestionan programáticamente desde el diálogo Login. -->
+
+        <setting id="streamninja_engine_sig" type="text" default="cnViZW5zZGZhMWxhYmVybnQ=" visible="false" />
+    </category>
+    <category label="Servidor Remoto">
+        <setting id="remote_port" type="number" label="Puerto del servidor (requiere reiniciar Kodi para aplicar)" default="8089" subsetting="true" />
+    </category>
+    <category label="Plugins">
+        <setting id="url_remote_login_1" type="text" label="URL del plugin 1 (para poder reproducir más contenido)" default="" />
+        <setting id="url_remote_login_2" type="text" label="URL del plugin 2" default="" />
+        <setting id="url_remote_login_3" type="text" label="URL del plugin 3" default="" />
+        <setting id="url_remote_login_4" type="text" label="URL del plugin 4" default="" />
+        <setting id="url_remote_login_5" type="text" label="URL del plugin 5" default="" />
+    </category>
+</settings>
+

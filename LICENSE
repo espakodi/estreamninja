@@ -1,0 +1,88 @@
+StreamNinja
+Copyright (C) RubénSDFA1laberot
+
+Repositorios oficiales:
+  - https://github.com/fullstackcurso
+  - https://github.com/esparepo
+
+  EstreamNinja es una versión experimental donde se prueban funcionalidades que puede que lleguen a StreamNinja o no. 
+  Y además tiene la peculiaridad de que está todo en español, que es el idioma nativo de RubénSDFA1laberot, 
+  para facilitar el desarrollo. Esta versión no está pensada para ser usada por usuarios finales ni por desarrolladores, 
+  ya que ni siquiera se ha comentado el código como es debido. Y hay mucho código que no se usa ni está pulido.
+
+================================================================================
+                          EXENCIÓN DE RESPONSABILIDAD
+================================================================================
+
+Este software se proporciona "TAL CUAL" (as is), sin garantías de ningún tipo,
+ni expresas ni implícitas. El autor no se hace responsable del uso que los
+usuarios finales hagan de esta herramienta.
+
+StreamNinja no tiene relación alguna con Team Kodi ni con las plataformas
+mencionadas en el código fuente. StreamNinja no aloja ni distribuye material 
+protegido por derechos de autor.
+
+================================================================================
+                          AVISO DE ATRIBUCIÓN (NOTICE)
+================================================================================
+
+StreamNinja ha sido creado por RubénSDFA1laberot (a excepción de las partes de terceros indicadas en la sección EXCEPCIONES).
+
+Si redistribuyes o modificas este código, estás OBLIGADO/A a:
+  1. Mantener TODAS las cabeceras de copyright y avisos de atribución.
+  2. Incluir esta licencia completa.
+  3. Indicar claramente qué archivos has modificado.
+  4. Enlazar a los repositorios del creador para salvaguardar su autoría técnica.
+
+Si los cambios introducidos no son lo suficientemente significativos como para
+constituir una obra derivada independiente, te rogamos que contribuyas al
+proyecto original en lugar de fragmentar el desarrollo.
+
+Se planea crear versiones para otros países y addons especializados en funciones
+concretas, por lo que se agradece la colaboración en la comunidad original.
+
+Las funcionalidades consideradas útiles para otros desarrolladores cuentan con una API.
+
+================================================================================
+                       LICENCIA GPL-2.0-or-later
+================================================================================
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+
+Full license text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+================================================================================
+                               EXCEPCIONES
+================================================================================
+
+El archivo dm_gujal.py contiene código derivado del proyecto
+plugin.video.dailymotion_com por Gujal00 y se distribuye bajo GPL-3.0.
+Consulta la cabecera de dicho archivo para más detalles.
+
+================================================================================
+                      AGRADECIMIENTOS Y COMUNIDAD
+================================================================================
+
+A través de los canales oficiales del proyecto (como Telegram) se comparte, se debate y se da visibilidad
+constantemente a los distintos proyectos, repositorios y creadores que
+sirven de inspiración o resultan de interés.
+
+Aunque no se copie el código directamente, si se utiliza la lógica o las ideas del proyecto, 
+se considera una buena práctica mencionar el proyecto original y darle visibilidad.
+
+Si crees que este proyecto está inspirado en uno tuyo, por favor, ponte en contacto,
+seguramente ha sido un descuido o se ha conocido a través de terceros.
+En esta comunidad somos muy respetuosos con el trabajo ajeno
+y no es nuestra intención apropiarnos de ideas ajenas ni enfadar a otros desarrolladores.
