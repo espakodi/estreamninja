@@ -1,6 +1,6 @@
-# StreamNinja Repository
+# EStreamNinja Repository
 
-Repositorio oficial del addon StreamNinja para Kodi. Permite instalar y actualizar automáticamente el addon desde Kodi.
+Repositorio oficial del addon EStreamNinja para Kodi. Permite instalar y actualizar automáticamente el addon desde Kodi.
 
 ## Instalación
 
@@ -25,4 +25,4 @@ https://raw.githubusercontent.com/fullstackcurso/estreamninja/main/
 - GitHub: [github.com/fullstackcurso](https://github.com/fullstackcurso)
 
 > [!NOTE]
-> StreamNinja no aloja contenido ni vulnera ninguna medida de protección de derechos de autor. StreamNinja es un reproductor de URLs y agregador de fuentes públicas.
+> StreamNinja no aloja contenido ni vulnera ninguna medida de protección de derechos de autor. StreamNinja es un reproductor de URLs.
